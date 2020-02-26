@@ -5,6 +5,7 @@ public class Test {
 
 		System.out.println("Initial");
 		
+		System.out.println("Second");
 		
 	}
 
